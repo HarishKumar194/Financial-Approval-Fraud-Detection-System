@@ -1,24 +1,24 @@
-# 💰 Financial Approval & Fraud Detection System
+# Financial Approval & Fraud Detection System
 
-## 🚀 Overview
+## Overview
 This project simulates a real-world corporate finance system that:
 - Detects fraudulent expense requests using Machine Learning
 - Routes approved requests through hierarchical approval levels
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - Scikit-learn (Logistic Regression)
 
-## ⚙️ Features
+## Features
 - Fraud detection model (ML-based)
 - Role-based approval workflow
 - Automated decision system
 
-## 📊 Output
+## Output
 - Fraud detection accuracy displayed
 - Approval decision for each transaction
 
-## ▶️ Run Project
+## Run Project
 ```bash
 python app.py
